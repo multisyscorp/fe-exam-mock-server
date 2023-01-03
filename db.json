@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "email": "guest@email.com",
+      "password": "$2a$10$WpyYwbbmTJQ1YTkqlvPwfevgQ8ST.0y96fcBwAtIYYjDE00rGA7oq",
+      "id": 1
+    }
+  ],
+  "appointment": []
+}
